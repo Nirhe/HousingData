@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8APH+LfYwe20HOnlZxjwYnYvyNKp+y6+Ax3tbNxlvQDrHIgJI1h8IUsQcprtfqsVSPDimWTMK2TvwJcbbGoHwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\HousingData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NirHeifetz\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\NirHeifetz\\.nuget\\packages\\csvreader.dll\\1.0.0\\csvreader.dll.1.0.0.nupkg.sha512",
+    "C:\\Users\\NirHeifetz\\.nuget\\packages\\jquery\\2.1.1\\jquery.2.1.1.nupkg.sha512",
+    "C:\\Users\\NirHeifetz\\.nuget\\packages\\sampledependency\\1.0.0\\sampledependency.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
