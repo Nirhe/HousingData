@@ -11,4 +11,8 @@
       <PackageReference Include="CsvReader.dll" Version="1.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\output\" />
+    </ItemGroup>
+
 </Project>

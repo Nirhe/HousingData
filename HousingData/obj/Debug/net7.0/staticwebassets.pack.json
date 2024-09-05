@@ -1,8 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\wwwroot\\data\\Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "Id": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\data\\Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
       "PackagePath": "staticwebassets\\data\\Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv"
+    },
+    {
+      "Id": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\data\\Zip_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "PackagePath": "staticwebassets\\data\\Zip_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv"
+    },
+    {
+      "Id": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\output\\analysis_results.csv",
+      "PackagePath": "staticwebassets\\output\\analysis_results.csv"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HousingData.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8APH+LfYwe20HOnlZxjwYnYvyNKp+y6+Ax3tbNxlvQDrHIgJI1h8IUsQcprtfqsVSPDimWTMK2TvwJcbbGoHwA==",
+  "dgSpecHash": "AqJsB1Dha8BO579aLl9uIQI16ywLa3HQ9RmXnaGaCfLHON8UOxo3rchbOWzOLw1Uwfd5ZThl7LF+AY4GJw2RTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\HousingData.csproj",
+  "projectFilePath": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\HousingData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NirHeifetz\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\NirHeifetz\\.nuget\\packages\\csvreader.dll\\1.0.0\\csvreader.dll.1.0.0.nupkg.sha512",

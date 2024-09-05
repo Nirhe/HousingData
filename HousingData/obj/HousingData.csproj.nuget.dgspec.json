@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\HousingData.csproj": {}
+    "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\HousingData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\HousingData.csproj": {
+    "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\HousingData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\HousingData.csproj",
+        "projectUniqueName": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\HousingData.csproj",
         "projectName": "HousingData",
-        "projectPath": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\HousingData.csproj",
+        "projectPath": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\HousingData.csproj",
         "packagesPath": "C:\\Users\\NirHeifetz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\obj\\",
+        "outputPath": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NirHeifetz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\NirHeifetz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://gitlab.com/api/v4/projects/48051139/packages/nuget/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -69,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.120\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }

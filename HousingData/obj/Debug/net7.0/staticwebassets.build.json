@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XwMpzaCOt0vPx1MHPXUdPxTFYuMDt9QY70Ze71tdyxs=",
+  "Hash": "FbLYAtGFoVMyULgcBFa7bZ5xwutSdWc2ueC2bdpqPa8=",
   "Source": "HousingData",
   "BasePath": "_content/HousingData",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HousingData\\wwwroot",
       "Source": "HousingData",
-      "ContentRoot": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\",
       "BasePath": "_content/HousingData",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\wwwroot\\data\\Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "Identity": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\data\\Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
       "SourceId": "HousingData",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\NirHeifetz\\RiderProjects\\HousingData\\HousingData\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\",
       "BasePath": "_content/HousingData",
       "RelativePath": "data/Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
       "AssetKind": "All",
@@ -32,6 +32,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\Metro_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv"
+    },
+    {
+      "Identity": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\data\\Zip_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "SourceId": "HousingData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\",
+      "BasePath": "_content/HousingData",
+      "RelativePath": "data/Zip_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\Zip_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv"
+    },
+    {
+      "Identity": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\output\\analysis_results.csv",
+      "SourceId": "HousingData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NirHeifetz\\Dev\\HousingData\\HousingData\\wwwroot\\",
+      "BasePath": "_content/HousingData",
+      "RelativePath": "output/analysis_results.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\output\\analysis_results.csv"
     }
   ]
 }
